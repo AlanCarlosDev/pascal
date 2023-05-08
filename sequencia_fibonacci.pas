@@ -14,6 +14,8 @@ begin
   begin
     c := a + b;
 
+    
+
     Write(', ', c);
 
     a := b;
